@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Data and training artifacts
+data/
+checkpoints/
+results/
+*.pt
+*.pth
+
+# Keep generated figures optional; comment this out if you want to commit figures
+# figures/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
